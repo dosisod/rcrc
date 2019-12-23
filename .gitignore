@@ -1,6 +1,9 @@
 *.swp
 .vim
+todo
 
 main
 
+# word list related files
+english.*
 *.txt
